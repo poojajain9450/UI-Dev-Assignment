@@ -9,6 +9,8 @@
 Your challenge is to build out this landing page and get it looking as close to the design as possible. 
 
 **The challenge here is to do design this without using any CSS frameworks like Bootstrap**
+
+
 Your users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
