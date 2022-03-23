@@ -1,7 +1,5 @@
 # Bookmark landing page
 
-![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
